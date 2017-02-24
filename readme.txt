@@ -1,1 +1,1 @@
-hello world!!!!
+This is a BMSTU students project.
